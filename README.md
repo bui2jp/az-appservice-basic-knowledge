@@ -76,7 +76,7 @@ app serviceの public access はデフォルトで許可されている
 
 app serviceの public access を許可して、ルール設定をしてもデプロイなどはできてしまう。
 
-app serviceの public access は拒否すると、VNet経由でのみアクセスできるようになる
+app serviceの public access は拒否した場合は、VNet経由でのみアクセスできるようになる
 
 
 
